@@ -1,0 +1,83 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 270,
+            "file_name": "1412.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1340,
+            "image_id": 270,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 62727,
+            "bbox": [
+                720.0,
+                756.0,
+                304.0,
+                268.0
+            ],
+            "segmentation": [
+                [
+                    1023.0,
+                    1023.5,
+                    1010.0,
+                    1018.5,
+                    1007.0,
+                    1023.5,
+                    976.0,
+                    1023.5,
+                    923.0,
+                    1003.5,
+                    917.5,
+                    1001.0,
+                    922.0,
+                    987.5,
+                    849.0,
+                    955.5,
+                    720.0,
+                    956.5,
+                    721.5,
+                    759.0,
+                    874.0,
+                    755.5,
+                    1023.0,
+                    822.5,
+                    1023.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}

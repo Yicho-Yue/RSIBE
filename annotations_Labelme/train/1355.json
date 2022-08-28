@@ -1,0 +1,183 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 230,
+            "file_name": "1355.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1207,
+            "image_id": 230,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 121,
+            "bbox": [
+                43.0,
+                1013.0,
+                21.0,
+                11.0
+            ],
+            "segmentation": [
+                [
+                    63.0,
+                    1023.5,
+                    42.5,
+                    1023.0,
+                    52.0,
+                    1012.5,
+                    63.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 1208,
+            "image_id": 230,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 739,
+            "bbox": [
+                155.0,
+                0.0,
+                54.0,
+                27.0
+            ],
+            "segmentation": [
+                [
+                    186.0,
+                    26.5,
+                    154.5,
+                    0.0,
+                    208.0,
+                    0,
+                    186.0,
+                    26.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 1209,
+            "image_id": 230,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 1811,
+            "bbox": [
+                1002.0,
+                809.0,
+                22.0,
+                118.0
+            ],
+            "segmentation": [
+                [
+                    1023.0,
+                    926.5,
+                    1008.5,
+                    904.0,
+                    1001.5,
+                    878.0,
+                    1001.5,
+                    856.0,
+                    1006.5,
+                    835.0,
+                    1023.0,
+                    808.5,
+                    1023.0,
+                    926.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 1210,
+            "image_id": 230,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 5459,
+            "bbox": [
+                555.0,
+                854.0,
+                109.0,
+                107.0
+            ],
+            "segmentation": [
+                [
+                    625.0,
+                    960.5,
+                    554.5,
+                    895.0,
+                    594.0,
+                    853.5,
+                    663.5,
+                    919.0,
+                    625.0,
+                    960.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 1211,
+            "image_id": 230,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 4539,
+            "bbox": [
+                510.0,
+                963.0,
+                96.0,
+                61.0
+            ],
+            "segmentation": [
+                [
+                    602.0,
+                    1023.5,
+                    510.0,
+                    1023.5,
+                    515.5,
+                    963.0,
+                    605.0,
+                    985.5,
+                    602.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
