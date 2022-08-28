@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>1423.tif</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>building</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>852</xmin>
+      <ymin>0</ymin>
+      <xmax>862</xmax>
+      <ymax>5</ymax>
+    </bndbox>
+  </object>
+</annotation>
