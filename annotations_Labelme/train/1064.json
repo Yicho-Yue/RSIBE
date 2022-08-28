@@ -1,0 +1,87 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 38,
+            "file_name": "1064.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 193,
+            "image_id": 38,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 25802,
+            "bbox": [
+                460.0,
+                49.0,
+                184.0,
+                193.0
+            ],
+            "segmentation": [
+                [
+                    499.0,
+                    241.5,
+                    459.5,
+                    171.0,
+                    461.5,
+                    97.0,
+                    492.5,
+                    89.0,
+                    479.5,
+                    51.0,
+                    516.0,
+                    48.5,
+                    549.0,
+                    77.5,
+                    612.0,
+                    62.5,
+                    623.5,
+                    109.0,
+                    625.0,
+                    111.5,
+                    634.5,
+                    109.0,
+                    643.5,
+                    144.0,
+                    624.5,
+                    150.0,
+                    638.5,
+                    207.0,
+                    499.0,
+                    241.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
