@@ -1,0 +1,172 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 113,
+            "file_name": "1180.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 683,
+            "image_id": 113,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 6120,
+            "bbox": [
+                0.0,
+                518.0,
+                68.0,
+                90.0
+            ],
+            "segmentation": [
+                [
+                    67.0,
+                    607.5,
+                    0,
+                    607.0,
+                    0.0,
+                    517.5,
+                    67.5,
+                    518.0,
+                    67.0,
+                    607.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 684,
+            "image_id": 113,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 6452,
+            "bbox": [
+                0.0,
+                0.0,
+                176.0,
+                38.0
+            ],
+            "segmentation": [
+                [
+                    18.0,
+                    37.5,
+                    0,
+                    37.0,
+                    0.0,
+                    0,
+                    175.5,
+                    0.0,
+                    175.0,
+                    35.5,
+                    18.0,
+                    37.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 685,
+            "image_id": 113,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 1576,
+            "bbox": [
+                604.0,
+                0.0,
+                40.0,
+                42.0
+            ],
+            "segmentation": [
+                [
+                    642.0,
+                    41.5,
+                    603.5,
+                    39.0,
+                    605.0,
+                    0,
+                    643.5,
+                    0.0,
+                    642.0,
+                    41.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 686,
+            "image_id": 113,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 10393,
+            "bbox": [
+                269.0,
+                798.0,
+                124.0,
+                200.0
+            ],
+            "segmentation": [
+                [
+                    286.0,
+                    997.5,
+                    268.5,
+                    994.0,
+                    270.5,
+                    981.0,
+                    331.5,
+                    922.0,
+                    304.5,
+                    898.0,
+                    307.5,
+                    854.0,
+                    310.5,
+                    828.0,
+                    342.0,
+                    797.5,
+                    377.5,
+                    824.0,
+                    392.5,
+                    889.0,
+                    302.5,
+                    988.0,
+                    296.0,
+                    994.5,
+                    286.0,
+                    997.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
