@@ -1,0 +1,131 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 538,
+            "file_name": "277.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2218,
+            "image_id": 538,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 20057,
+            "bbox": [
+                0.0,
+                128.0,
+                141.0,
+                178.0
+            ],
+            "segmentation": [
+                [
+                    121.0,
+                    305.5,
+                    0,
+                    285.0,
+                    0.0,
+                    127.5,
+                    111.0,
+                    144.5,
+                    106.5,
+                    180.0,
+                    140.5,
+                    185.0,
+                    121.0,
+                    305.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 2219,
+            "image_id": 538,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 1142,
+            "bbox": [
+                0.0,
+                425.0,
+                26.0,
+                86.0
+            ],
+            "segmentation": [
+                [
+                    0.0,
+                    510.5,
+                    1.0,
+                    424.5,
+                    25.5,
+                    434.0,
+                    0.0,
+                    510.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 2220,
+            "image_id": 538,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 23081,
+            "bbox": [
+                178.0,
+                95.0,
+                195.0,
+                238.0
+            ],
+            "segmentation": [
+                [
+                    268.0,
+                    332.5,
+                    177.5,
+                    139.0,
+                    271.0,
+                    94.5,
+                    326.5,
+                    214.0,
+                    338.5,
+                    211.0,
+                    372.5,
+                    283.0,
+                    268.0,
+                    332.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
