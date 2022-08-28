@@ -1,0 +1,77 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 544,
+            "file_name": "29.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2224,
+            "image_id": 544,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 2495,
+            "bbox": [
+                519.0,
+                997.0,
+                231.0,
+                27.0
+            ],
+            "segmentation": [
+                [
+                    749.0,
+                    1023.5,
+                    664.0,
+                    1023.5,
+                    661.5,
+                    1008.0,
+                    746.0,
+                    996.5,
+                    749.0,
+                    1023.5
+                ],
+                [
+                    608.0,
+                    1023.5,
+                    518.5,
+                    1022.0,
+                    606.0,
+                    1009.5,
+                    608.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
