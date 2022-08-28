@@ -1,0 +1,93 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 598,
+            "file_name": "367.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2389,
+            "image_id": 598,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 27349,
+            "bbox": [
+                378.0,
+                0.0,
+                143.0,
+                245.0
+            ],
+            "segmentation": [
+                [
+                    466.0,
+                    244.5,
+                    377.5,
+                    230.0,
+                    395.5,
+                    112.0,
+                    397.0,
+                    107.5,
+                    406.0,
+                    108.5,
+                    407.5,
+                    104.0,
+                    408.5,
+                    92.0,
+                    395.5,
+                    90.0,
+                    407.0,
+                    0,
+                    520.5,
+                    0.0,
+                    503.5,
+                    102.0,
+                    504.0,
+                    105.5,
+                    519.0,
+                    106.5,
+                    519.5,
+                    110.0,
+                    500.5,
+                    224.0,
+                    499.0,
+                    228.5,
+                    471.0,
+                    223.5,
+                    466.0,
+                    244.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}

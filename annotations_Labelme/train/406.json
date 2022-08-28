@@ -1,0 +1,83 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 624,
+            "file_name": "406.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2479,
+            "image_id": 624,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 56707,
+            "bbox": [
+                86.0,
+                738.0,
+                339.0,
+                286.0
+            ],
+            "segmentation": [
+                [
+                    297.0,
+                    1023.5,
+                    135.0,
+                    1023.5,
+                    85.5,
+                    986.0,
+                    179.5,
+                    863.0,
+                    181.5,
+                    860.0,
+                    169.5,
+                    851.0,
+                    256.0,
+                    737.5,
+                    301.0,
+                    771.5,
+                    318.0,
+                    749.5,
+                    424.5,
+                    830.0,
+                    394.5,
+                    868.0,
+                    407.5,
+                    878.0,
+                    297.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
