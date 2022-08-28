@@ -1,0 +1,170 @@
+{
+    "info": {
+        "description": "Building Instances Segmentation Dataset",
+        "url": "",
+        "version": "1.0.0",
+        "year": 2022,
+        "contributor": "JichongYin",
+        "date_created": "2022-06-13 01:39:37.267311"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 142,
+            "file_name": "1654.tif",
+            "width": 1024,
+            "height": 1024,
+            "date_captured": "2022-06-13 01:39:35.548445",
+            "license": 1,
+            "coco_url": "",
+            "flickr_url": ""
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 704,
+            "image_id": 142,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 4333,
+            "bbox": [
+                275.0,
+                976.0,
+                116.0,
+                48.0
+            ],
+            "segmentation": [
+                [
+                    390.0,
+                    1023.5,
+                    276.0,
+                    1023.5,
+                    274.5,
+                    1004.0,
+                    306.0,
+                    1003.5,
+                    306.5,
+                    985.0,
+                    322.0,
+                    984.5,
+                    323.0,
+                    975.5,
+                    368.0,
+                    975.5,
+                    369.0,
+                    983.5,
+                    389.5,
+                    983.0,
+                    390.0,
+                    1023.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 705,
+            "image_id": 142,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 684,
+            "bbox": [
+                0.0,
+                754.0,
+                12.0,
+                63.0
+            ],
+            "segmentation": [
+                [
+                    11.0,
+                    816.5,
+                    0,
+                    816.0,
+                    0,
+                    755.0,
+                    9.0,
+                    753.5,
+                    11.0,
+                    816.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 706,
+            "image_id": 142,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 3569,
+            "bbox": [
+                43.0,
+                772.0,
+                45.0,
+                83.0
+            ],
+            "segmentation": [
+                [
+                    87.0,
+                    854.5,
+                    43.5,
+                    854.0,
+                    43.0,
+                    772.5,
+                    85.5,
+                    772.0,
+                    87.0,
+                    854.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 707,
+            "image_id": 142,
+            "category_id": 1,
+            "iscrowd": 0,
+            "area": 7847,
+            "bbox": [
+                320.0,
+                796.0,
+                149.0,
+                61.0
+            ],
+            "segmentation": [
+                [
+                    322.0,
+                    856.5,
+                    320.0,
+                    804.5,
+                    370.0,
+                    803.5,
+                    371.0,
+                    798.5,
+                    466.5,
+                    796.0,
+                    468.0,
+                    850.5,
+                    322.0,
+                    856.5
+                ]
+            ],
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
