@@ -1,4 +1,7 @@
-# RSIBE
+# RSIBE: A large-scale dataset for extracting buildings from remote sensing images
+
+This repository is the official implementation of RSIBE: A large-scale dataset for extracting buildings from remote sensing images by Jichong Yin, Fang Wu, Haizhong Qian, Yue Qiu, Chengyi Liu, Xianyong Gong and Andong Wang.
+
 ![image](https://user-images.githubusercontent.com/84856063/187148487-c1890f39-c939-48cb-9018-8df17ab02d03.png)
 
 Instances of the images in the RSIBE dataset captured in different imaging conditions, weathers, seasons, and image qualities, including various types and sizes of the buildings in different areas.
